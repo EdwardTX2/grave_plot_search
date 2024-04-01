@@ -1,0 +1,19 @@
+{
+  "name": "grave_plot_search",
+  "version": "1.0.0",
+  "description": "b3IU9J74QpfZPdgy\r Supabase password for Grandview Cemetery Register project\r using ejs\r need .env to hold sensitive data, like supabase project password/key\r when using environmental variables, also need .gitignore, so passwords arent pushed to github",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.8",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.9",
+    "express": "^4.19.1"
+  }
+}
